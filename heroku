@@ -1,0 +1,4 @@
+heroku login
+heroku create 
+git remote add heroku <url git> 
+git push heroku master/main
