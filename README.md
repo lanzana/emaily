@@ -8,6 +8,8 @@ install mongoose -> npm i --save mongoose
 
 install cookie session -> npm i --save cookie-session
 
+install concurrently -> npm i --save concurrently
+
 npm run dev (package.json script)
 
 build -> git push remote heroku
