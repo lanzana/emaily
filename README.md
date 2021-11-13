@@ -1,3 +1,7 @@
+-->Packages<--
+
+server:
+
 install expres -> npm i --save express
 
 install google oauth -> npm i --save passport passport-google-oatuh20
@@ -9,6 +13,18 @@ install mongoose -> npm i --save mongoose
 install cookie session -> npm i --save cookie-session
 
 install concurrently -> npm i --save concurrently
+
+client:
+
+install proxy-middleware -> npm i http-proxy-middleware@2.0.1
+
+npm i --save redux react-redux react-router-dom
+
+npm install --save materialize-css
+
+npm i --save axios react-thunk
+
+-->Packages<--
 
 npm run dev (package.json script)
 
