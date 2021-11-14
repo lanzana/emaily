@@ -27,6 +27,7 @@ class Header extends Component {
         <div className="nav-wrapper">
           <Link
             to={this.props.auth ? "/surveys" : "/"}
+            //this.prop.auth contem se está logado, se sim vai para o dash, senão vai para main screen
             className="left brand-logo"
           >
             Emaily
