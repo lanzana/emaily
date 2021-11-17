@@ -18,6 +18,8 @@ npm i --save stripe
 
 npm i --save body-parser
 
+npm i --save sendgrid
+
 client:
 
 install proxy-middleware -> npm i http-proxy-middleware@2.0.1
