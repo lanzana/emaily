@@ -32,6 +32,8 @@ npm i --save axios react-thunk
 
 npm i --save react-stripe-checkout
 
+npm install --save redux-form --legacy-peer-deps
+
 -->Packages<--
 
 npm run dev (package.json script)
