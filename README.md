@@ -20,6 +20,8 @@ npm i --save body-parser
 
 npm i --save sendgrid
 
+npm install --save lodash path-parser
+
 client:
 
 install proxy-middleware -> npm i http-proxy-middleware@2.0.1
